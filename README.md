@@ -74,7 +74,7 @@ This project is dual-licensed:
 2. **Commercial Use:**  
    If you wish to manufacture and sell products based on these designs, you must obtain a commercial license. Please refer to [COMMERCIAL.md](COMMERCIAL.md) for more details or contact me directly at [keijo.mukku@gmail.com].
 
-For more information about the terms of use, see the [LICENSE](LICENSE) and [COMMERCIAL.md](COMMERCIAL.md) files.
+For more information about the terms of use, see the [LICENSE](LICENSE.md) and [COMMERCIAL.md](COMMERCIAL.md) files.
 
 ## Contact
 
